@@ -1,6 +1,6 @@
 # Poetry Haven, Inc.
 
-Welcome to **Poetry Haven, Inc.** – a platform where you can explore, create, and share poetry.
+Welcome to **Poetry Haven, Inc.** 
 
 ## Table of Contents
 
